@@ -1,2 +1,2 @@
-# Patika--dev-3
+# Patika-odev-3
 Ödev-3
